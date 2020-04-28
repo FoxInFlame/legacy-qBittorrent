@@ -4,6 +4,7 @@ QTreeView::item {
 
 QListView::item,
 QTableView::item,
-CategoryFilterWidget::item {
+CategoryFilterWidget::item,
+TagFilterWidget::item {
   height: 18px;
 }
