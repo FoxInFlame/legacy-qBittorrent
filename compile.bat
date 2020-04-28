@@ -1,0 +1,1 @@
+python make-resource.py -output legacy-qBittorrent -style style.qss
