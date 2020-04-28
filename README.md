@@ -2,6 +2,10 @@
 
 This is a very minimal qbtheme for qBittorrent that brings back the compact layout for the transfer list from pre-4.2.2.
 
+## Downloading
+
+Get the .qbtheme file from this repo by cloning it or from the [Releases](https://github.com/FoxInFlame/legacy-qBittorrent/releases) page.
+
 ## Compiling (Windows only)
 
 With a python3 executable called `python`, run `compile.bat`.
