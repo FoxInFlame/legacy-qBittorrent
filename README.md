@@ -6,6 +6,12 @@ This is a very minimal qbtheme for qBittorrent that brings back the compact layo
 
 Get the .qbtheme file from this repo by cloning it or from the [Releases](https://github.com/FoxInFlame/legacy-qBittorrent/releases) page.
 
+## Using
+
+Copy the downloaded .qbtheme file to a permanent location.  Load the theme in qBittorrent from `Options → Behavior → Interface`, enable `[x] Use custom UI Theme` and select the file.  Restart qBittorrent.
+
+See the official [How to use custom UI themes](https://github.com/qbittorrent/qBittorrent/wiki/How-to-use-custom-UI-themes).
+
 ## Compiling (Windows only)
 
 With a python3 executable called `python`, run `compile.bat`.
@@ -22,3 +28,7 @@ To get started with making your own style:
 1. `git clone` this repository to your file system.
 2. Edit `style.qss` to your liking. Although I haven't tried, you can certainly include custom icon assets to your compilation. Take a look at other developers for examples.
 3. Compile using `compile.bat`.
+
+See the official [Create custom themes for qBittorrent](https://github.com/qbittorrent/qBittorrent/wiki/Create-custom-themes-for-qBittorrent).
+
+And a list of other themes from [List of known qBittorrent themes](https://github.com/qbittorrent/qBittorrent/wiki/List-of-known-qBittorrent-themes).
